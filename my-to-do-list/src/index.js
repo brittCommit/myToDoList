@@ -3,13 +3,17 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
+function MyApp() {
+  return (<ul>
+            <li>Mail Package</li>
+            <li> Go to store</li>
+            <li>Spin</li>
+          </ul>
+          )
+}
 
 ReactDOM.render(
-  <ul>
-    <li>Mail Package</li>
-    <li> Go to store</li>
-    <li>Spin</li>
-  </ul>,
+  <MyApp />,
   document.getElementById('root')
 );
 
