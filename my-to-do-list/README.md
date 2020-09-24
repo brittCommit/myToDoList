@@ -1,6 +1,6 @@
 This To-Do List was made while learning React while following a Scrimba Course
 
-##---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
