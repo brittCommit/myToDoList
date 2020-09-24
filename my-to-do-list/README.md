@@ -1,4 +1,4 @@
-This To-Do List was made while learning React while following a Scrimba Course
+This To-Do List was made while learning React while following a Scrimba Course.
 
 ---------------------------------------------------------------------------------------------------
 
